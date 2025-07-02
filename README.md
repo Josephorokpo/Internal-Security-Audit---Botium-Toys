@@ -11,11 +11,13 @@ The audit was executed using a structured controls and compliance checklist, met
 
 For each control point on the checklist, an evaluation was performed to determine its current implementation status and effectiveness. This involved:
 
-* Reviewing existing documentation (policies, procedures).
-* Observing operational practices and system configurations.
-* Conducting targeted inquiries with relevant personnel.
+Reviewing existing documentation (policies, procedures).
 
-Evaluation metrics focused on the presence, proper configuration, and operational effectiveness of each control, leading to classifications such as "Implemented," "Partially Implemented," or "Not Implemented." Identified deficiencies directly translated into compliance gaps and security risks, forming the basis for subsequent recommendations.
+Observing operational practices and system configurations.
+
+Conducting targeted inquiries with relevant personnel.
+
+Evaluation was conducted using a simple yes/no checklist for each control, assessing its presence, proper configuration, and operational effectiveness. Each "No" response was accompanied by a detailed explanation that articulated the specific security gap identified and the proposed control to address it. These identified deficiencies directly translated into compliance gaps and security risks, forming the basis for subsequent recommendations.
 
 ## Conclusion
 
